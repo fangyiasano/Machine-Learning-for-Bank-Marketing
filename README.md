@@ -39,9 +39,7 @@ The dataset contains the following attributes:
 
 5. Principal Component Analysis (PCA): Applied PCA to reduce the dimensionality of the data and visualize the data in a lower-dimensional space.
 
-6. Feature
-
- Selection: Conducted feature selection using various techniques such as correlation analysis, chi-square test, and recursive feature elimination to identify the most important features for predicting the target variable.
+6. Feature Selection: Conducted feature selection using various techniques such as correlation analysis, chi-square test, and recursive feature elimination to identify the most important features for predicting the target variable.
 
 7. Model Selection: Compared and evaluated different classification models such as logistic regression, decision tree, random forest, and gradient boosting to determine the best-performing model for the given dataset.
 
